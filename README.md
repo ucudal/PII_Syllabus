@@ -144,7 +144,7 @@ width="150"/>
       Contenidos
     </td>
     <td style="color:#0969DA;font-weight:bold;width:10%" rowspan=2>
-      Tiempo estimado
+      Horas estimadas
     </td>
     <td style="color:#0969DA;font-weight:bold;width:22.5%" rowspan=2>
       Estrategia de enseñanza
