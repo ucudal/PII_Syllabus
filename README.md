@@ -5,11 +5,40 @@ width="150"/>
 
 # Universidad Católica del Uruguay
 
-## Facultad de Ingeniería y Tecnologías
-
-### Programación II
+## Programación II
 
 # Syllabus
+
+## Contenido
+
+<!-- no toc -->
+* [Resumen](#resumen)
+
+* [Objetivos](#objetivos)
+
+* [Competencias](#competencias)
+
+* [Resultados de aprendizaje](#resultados)
+
+* [Temario](#temario)
+
+* [Plan de evaluación](#evaluacion)
+
+* [Modalidad de la retroalimentación](#retroalimentacion)
+
+* [Recursos principales](#recursos)
+
+* [Dinámicas del curso](#dinámicas-del-curso)
+
+* [Tu rol en el aprendizaje](#tu-rol-en-el-aprendizaje)
+
+* [Trabajo en equipo y proyecto](#trabajo-en-equipo-y-proyecto)
+
+* [Asistencia y presencia en clase](#asistencia-y-presencia-en-clase)
+
+* [Webasignatura, materiales y terminología](#webasignatura-materiales-y-terminología)
+
+* [Honestidad académica y uso de IA](#honestidad-académica-y-uso-de-ia)
 
 <table>
   <tr>
@@ -32,7 +61,7 @@ width="150"/>
 
 <table>
   <tr>
-    <td style="color:#0969DA;font-weight:bold">
+    <td style="color:#0969DA;font-weight:bold" id="resumen">
       Resumen
     </td>
   </tr>
@@ -46,7 +75,7 @@ width="150"/>
 
 <table>
   <tr>
-    <td style="color:#0969DA;font-weight:bold" colspan=2>
+    <td style="color:#0969DA;font-weight:bold" colspan=2 id="objetivos">
       Objetivos
     </td>
   </tr>
@@ -68,10 +97,10 @@ width="150"/>
     </td>
   </tr>
   <tr>
-    <td style="color:#0969DA;font-weight:bold">
+    <td style="color:#0969DA;font-weight:bold" id="competencias">
       Competencias
     </td>
-    <td style="color:#0969DA;font-weight:bold">
+    <td style="color:#0969DA;font-weight:bold" id="resultados">
       Resultados del aprendizaje
     </td>
   </tr>
@@ -94,14 +123,14 @@ width="150"/>
       global de la informática en individuos y organizaciones
     </td>
     <td>
-      2. Modela aspectos del mundo real en términos de responsabilidades
+      1. Modela aspectos del mundo real en términos de responsabilidades
       distribuidas entre clases y objetos, y de relaciones y colaboraciones
       entre ellos
     </td>
   </tr>
   <tr style="vertical-align:top">
     <td>
-      3. Construye programas que resuelven problemas del mundo real modelados en
+      1. Construye programas que resuelven problemas del mundo real modelados en
       términos de clases, objetos y relaciones entre ellos
     </td>
   </tr>
@@ -112,19 +141,19 @@ width="150"/>
       alternativas involucradas en las opciones de implementación
     </td>
     <td>
-      4. Diseña programas de forma que sean resilientes, fáciles de mantener y
+      1. Diseña programas de forma que sean resilientes, fáciles de mantener y
       fáciles de entender, reutilizando y reutilizables
     </td>
   </tr>
   <tr style="vertical-align:top">
     <td>
-      5. Utiliza patrones de diseño orientado a objetos para resolver problemas
+      1. Utiliza patrones de diseño orientado a objetos para resolver problemas
       recurrentes
     </td>
   </tr>
   <tr style="vertical-align:top">
     <td>
-      6. Verifica que los programas que construye cumplen con sus
+      1. Verifica que los programas que construye cumplen con sus
       especificaciones
     </td>
   </tr>
@@ -134,7 +163,7 @@ width="150"/>
       muestra una alfabetización informática avanzada
     </td>
     <td>
-      7. Auto-capacitarse en nuevos lenguajes de programación, plataformas
+      1. Auto-capacitarse en nuevos lenguajes de programación, plataformas
       computacionales, herramientas de desarrollo y marcos de trabajo
     </td>
   </tr>
@@ -144,20 +173,20 @@ width="150"/>
       actividades propias de la informática
     </td>
     <td>
-      8. Desarrolla programas en forma colaborativa y concurrente en forma
+      1. Desarrolla programas en forma colaborativa y concurrente en forma
       presencial o remota
     </td>
   </tr>
   <tr style="vertical-align:top">
     <td>
-      9. Demuestra compromiso y responsabilidad en el trabajo en equipo
+      1. Demuestra compromiso y responsabilidad en el trabajo en equipo
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td style="color:#0969DA;font-weight:bold" colspan=5>
+    <td style="color:#0969DA;font-weight:bold" colspan=5 id="temario">
       Temario
     </td>
   </tr>
@@ -249,7 +278,7 @@ width="150"/>
 
 <table>
   <tr>
-    <td style="color:#0969DA;font-weight:bold" colspan=4>
+    <td style="color:#0969DA;font-weight:bold" colspan=4 id="evaluacion">
       Plan de evaluación
     </td>
   </tr>
@@ -371,7 +400,7 @@ width="150"/>
 
 <table>
   <tr>
-    <td style="color:#0969DA;font-weight:bold" colspan=2>
+    <td style="color:#0969DA;font-weight:bold" colspan=2 id="retroalimentacion">
       Modalidad de la retroalimentación
     </td>
   </tr>
@@ -430,7 +459,7 @@ width="150"/>
 
 <table>
   <tr>
-    <td style="color:#0969DA;font-weight:bold">
+    <td style="color:#0969DA;font-weight:bold" id="recursos">
       Recursos principales
     </td>
   </tr>
@@ -446,3 +475,133 @@ width="150"/>
     </td>
   </tr>
 </table>
+
+## Dinámicas del curso
+
+En este curso aprenderás e a programar programando. No hay clases teóricas y
+prácticas por separado; casi todas las clases implican escribir código,
+probarlo, depurarlo y discutir decisiones de diseño.
+
+Vas a necesitar traer siempre tu computadora con el entorno de desarrollo
+instalado y funcionando. Cuidar tu ambiente de desarrollo es parte del trabajo
+en el curso: invertir tiempo en tenerlo sano te ahorra mucho tiempo después.
+
+Cada unidad temática sigue, en general, esta secuencia:
+
+1. Actividades de preparación en casa: leer materiales, mirar videos, etc.
+
+2. Prueba individual de esa preparación, mediante cuestionarios en
+   webasignatura. No sabrás el resultado hasta el final del control.
+
+3. Responderás el mismo cuestionario con tu equipo, discutiendo y justificando
+   respuestas. Al contestar cada pregunta sabrás si la respuesta es correcta o
+   no; si no es correcta, podrás volver a contestar, pero sumarás menos puntos.
+
+4. Ejercicios de aplicación en clase, programando el forma individual o con tu
+   equipo. Te daremos la solución de esos ejercicios, para que puedas compararla
+   con tu propia solución.
+
+5. Aplicación de los conceptos de la unidad al proyecto.
+
+La idea que llegues a clase con una base, y usar el tiempo presencial para
+aplicar, discutir y profundizar.
+
+## Tu rol en el aprendizaje
+
+Los docentes pueden enseñar, pero vos sos responsable de aprender. Eso implica:
+
+* Planificar tu semana para tener tiempo real de programar, no solo “leer la
+  consigna”.
+
+* Intentar resolver problemas y errores por tu cuenta antes de pedir ayuda.
+
+* Reflexionar sobre qué entendiste, qué no y qué podrías haber hecho distinto.
+
+* Desarrollar hábitos de aprendizaje que te sirvan más allá de este curso.
+
+Además de los temas mencionados [más arriba](#temario), el curso busca que
+desarrolles trabajo colaborativo, responsabilidad por tu propio aprendizaje,
+resolución de problemas, pensamiento crítico, comunicación efectiva y ganas de
+seguir aprendiendo toda la vida.
+
+## Trabajo en equipo y proyecto
+
+Gran parte del trabajo se organiza alrededor de un proyecto en equipo, que es el
+núcleo del curso y no un “extra”. Los equipos se arman al inicio y se mantienen
+durante el semestre.
+
+En el proyecto vas a:
+
+* Aplicar los conceptos de diseño orientado a objetos a un caso “real”.
+
+* Practicar colaboración: uso de repositorios, división de tareas, revisiones,
+  acuerdos.
+
+* Desarrollar un producto que se presenta y defiende individualmente.
+
+Además de la nota de proyecto en sí, cuenta cómo funcionás dentro del equipo:
+cumplir acuerdos, aportar al trabajo común, dar y recibir feedback, y sostener
+el proyecto al día.
+
+## Asistencia y presencia en clase
+
+La asistencia no es solo estar sentado en el salón. Se espera que estés
+realmente presente: siguiendo la clase, trabajando con tu equipo, haciendo las
+actividades, y no distraído con cosas que no tienen que ver con el curso.
+
+Llegar a tiempo importa: la asistencia se registra al inicio y llegar después
+puede significar que esa clase no cuente. También se espera que te quedes toda
+la clase, salvo casos excepcionales.
+
+## Webasignatura, materiales y terminología
+
+La webasignatura del curso centraliza:
+
+* Materiales de lectura y videos.
+
+* Consignas de actividades.
+
+* Cuestionarios y otras evaluaciones en línea.
+
+* Anuncios y comunicaciones oficiales.
+
+Revisarla con frecuencia es tu responsabilidad.
+
+Vas a encontrar también “tarjetas” de conceptos con las definiciones que usamos
+en el curso. Se espera que uses esa terminología en tus entregas; llamar a las
+cosas por su nombre hace más clara la comunicación y facilita la corrección.
+
+## Honestidad académica y uso de IA
+
+Se espera que el código y las entregas que presentes sean tuyas. Entregar como
+si fueran tuyos trabajos de otros, obtenidos de internet o generados por IA, y
+presentarlos como propios es deshonestidad académica grave.
+
+Sobre herramientas de IA (GitHub Copilot, Claude Code, etc.):
+
+Pueden ser útiles para:
+
+* Explicar un concepto de las lecturas con otras palabras
+
+* Explicar código que te damos
+
+* Validar una idea o diseño
+
+* Generar casos de prueba adicionales para código que vos escribiste y luego
+  revisarlos
+
+* Generar o validar documentación generada por vos
+
+No está bien usarlas para:
+
+* Generar directamente la solución de ejercicios o entregas; no vas a aprender
+  nada con eso.
+
+* Entregar código que usa construcciones o técnicas que no se vieron en clase y
+  que no podés explicar con detalle.
+
+* Delegar en la herramienta la comprensión de consignas o especificaciones.
+
+En resumen: la IA puede ayudarte a aprender, pero no puede aprender por vos. Lo
+que entregás tiene que ser algo que realmente entiendas y seas capaz de
+defender.
