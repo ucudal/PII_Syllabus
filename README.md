@@ -54,7 +54,7 @@ width="150"/>
       Carrera
     </td>
     <td>
-      Ingeniería en Informática, Licenciatura en Informática, Analista en Informática, Desarrollador de Software
+      Ingeniería en Informática, Licenciatura en Informática, Analista en Informática, Desarrollador de Software, Ingeniería en Telecomunicaciones / Electrónica / Potencia
     </td>
   </tr>
 </table>
